@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mnogopotokov", "mnogopotokov\mnogopotokov.csproj", "{376368A6-5648-4B71-A7C8-4E39C4E418F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{376368A6-5648-4B71-A7C8-4E39C4E418F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376368A6-5648-4B71-A7C8-4E39C4E418F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376368A6-5648-4B71-A7C8-4E39C4E418F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376368A6-5648-4B71-A7C8-4E39C4E418F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7B0CF90-D432-42FB-B804-64C6FF98FADB}
+	EndGlobalSection
+EndGlobal
